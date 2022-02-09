@@ -1,0 +1,7 @@
+#if-else statement
+a=int(input('enter the value of a:') 
+b=int(input('enter the value of b:') 
+if a>b:
+   Print('a is greater') 
+Else:
+    Print('b is greater') 
