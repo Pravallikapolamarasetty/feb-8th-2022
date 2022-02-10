@@ -1,0 +1,10 @@
+#find student pass or fail
+Name=input('enter the age') 
+Section=input(enter the section') 
+S1=int(input('enter marks')) 
+S2=int(input('enter marks')) 
+S3=int(input('enter marks')) 
+if S1=35 and S2=35 and S3=35:
+    Print ('student fail') 
+else:
+    Print('student pass') 
