@@ -1,0 +1,8 @@
+#program for number is positive or negative
+n=int(input('enter number')) 
+if n>0:
+   Print('the number is positive number) 
+elif n==0:
+    Print('the number is equal to zero') 
+Else:
+    Print ('the number is negative number') 
